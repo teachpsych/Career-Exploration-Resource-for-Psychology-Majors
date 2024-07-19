@@ -4,18 +4,33 @@ let jobData = [];
 
 searchBar.addEventListener('keyup', (e) => {
     const searchString = e.target.value.toLowerCase();
+    const searchWords = searchString.split(' ').filter(word => word.length > 0);
+
+    // If search string is empty, display all jobs
+    if (searchWords.length === 0) {
+        displayJobs(jobData.flatMap(category => {
+            return Object.entries(category.jobs).map(([jobTitle, job]) => ({
+                main_category: category.main_category,
+                jobTitle,
+                job
+            }));
+        }));
+        return;
+    }
 
     // Filter jobs based on search string
     const filteredJobs = jobData.flatMap(category => {
         return Object.entries(category.jobs)
             .filter(([jobTitle, job]) => {
-                // Check if job title matches search string
-                const jobTitleMatch = jobTitle.toLowerCase().includes(searchString);
+                // Check if job title matches any of the search words
+                const jobTitleMatch = searchWords.some(word => jobTitle.toLowerCase().includes(word));
 
-                // Check if any link's category or URL matches search string
+                // Check if any link's category or URL matches any of the search words
                 const linksMatch = job.links.some(link =>
-                    link.url.toLowerCase().includes(searchString) ||
-                    link.category.toLowerCase().includes(searchString)
+                    searchWords.some(word => 
+                        link.url.toLowerCase().includes(word) || 
+                        link.category.toLowerCase().includes(word)
+                    )
                 );
 
                 return jobTitleMatch || linksMatch;

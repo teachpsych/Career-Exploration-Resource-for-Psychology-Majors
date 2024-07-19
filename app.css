@@ -1,0 +1,99 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #111d4a; /* Dark background for the entire page */
+    color: #f4f4f4; /* Light text color for better readability */
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #f4f4f4; /* Light color for the main heading */
+    margin-bottom: 30px;
+    font-size: 2.5em;
+}
+
+.container {
+    padding: 40px;
+    margin: 0 auto;
+    max-width: 1000px;
+    text-align: center;
+    background-color: #1f2a48; /* Slightly lighter background for the container */
+    border-radius: 8px; /* Rounded corners for the container */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+}
+
+#jobslist {
+    padding-inline-start: 0;
+    list-style-type: none; /* Remove bullets from list items */
+}
+
+.job-section {
+    background-color: #2a3b5a; /* Darker background for each job section */
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px; /* Space between job sections */
+}
+
+.main-category {
+    color: #ff9900; /* Bright color for the main category */
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.job-title {
+    color: #00aaff; /* Bright blue for job titles */
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* Add spacing between items */
+    background-color: #1e2a45; /* Slightly different background for links */
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.category {
+    margin-right: 15px; /* Space between category and URL */
+    font-weight: bold;
+    color: #ffcc00; /* Yellow color for the category */
+}
+
+.link a {
+    color: #00aaff; /* Link color */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.link a:hover {
+    text-decoration: underline; /* Underline on hover for better UX */
+}
+
+#searchBar {
+    width: 100%;
+    height: 40px; /* Increased height for better usability */
+    border-radius: 4px;
+    border: 1px solid #444; /* Darker border for better contrast */
+    padding: 10px;
+    font-size: 14px; /* Slightly larger font size */
+    background-color: #222; /* Darker background for the search bar */
+    color: #f4f4f4; /* Light text color for input */
+}
+
+#searchWrapper {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+#searchWrapper::after {
+    content: '🔍';
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: #f4f4f4; /* Light color for the search icon */
+}

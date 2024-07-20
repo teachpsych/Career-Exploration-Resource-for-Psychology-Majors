@@ -2,23 +2,47 @@ body {
     font-family: 'Arial', sans-serif;
     background-color: #111d4a; /* Dark background for the entire page */
     color: #f4f4f4; /* Light text color for better readability */
-    margin: 0;
-    padding: 0;
+    margin: 2;
+    padding: 20;
 }
 
 * {
     box-sizing: border-box;
 }
 
+p {
+    margin: 2;
+    padding: 2;
+    text-align: left; /* Left-justify paragraphs */
+}
+
+ul, ol {
+    margin: 2;
+    padding: 2;
+    text-align: left; /* Left-justify lists */
+}
+
+h1, h2, h3 {
+    color: #f4f4f4; /* Light color for the headings */
+    text-align: center; /* Center the text horizontally */
+    /* margin-bottom: 3px; Space below each heading */
+}
+
 h1 {
-    color: #f4f4f4; /* Light color for the main heading */
-    margin-bottom: 30px;
-    font-size: 2.5em;
+    font-size: 2.5em; /* Font size for the main heading */
+}
+
+h2 {
+    font-size: 2em; /* Font size for subheadings */
+}
+
+h3 {
+    font-size: 1.1em; /* Font size for smaller subheadings */
 }
 
 .container {
-    padding: 40px;
-    margin: 0 auto;
+    padding: 10px;
+    margin: 10 auto;
     max-width: 1000px;
     text-align: center;
     background-color: #1f2a48; /* Slightly lighter background for the container */
@@ -34,7 +58,7 @@ h1 {
 .job-section {
     background-color: #2a3b5a; /* Darker background for each job section */
     border-radius: 8px;
-    padding: 20px;
+    padding: 2px;
     margin-bottom: 20px; /* Space between job sections */
 }
 
@@ -96,4 +120,68 @@ h1 {
     top: 10px;
     right: 15px;
     color: #f4f4f4; /* Light color for the search icon */
+}
+
+.contact-info {
+    text-align: center; /* Center the text horizontally */
+    font-family: Arial, sans-serif;
+    line-height: 1.1;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    max-width: 400px;
+    background-color: #000000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.contact-info p {
+    text-align: center; /* Center the text horizontally */
+    margin: 5px;
+}
+
+.contact-info a {
+    color: #ff0000; /* A shade of blue for the email link */
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+.important {
+    font-weight: bold;
+}
+
+.highlight-yellow {
+    background-color: #ffff00; /* Yellow highlight */
+}
+
+.highlight-blue {
+    background-color: #cce5ff; /* Blue highlight */
+}
+
+.highlight-green {
+    background-color: #d4edda; /* Green highlight */
+}
+
+a[href^="mailto:"] {
+    color: #ff0000; /* White text color */
+    text-decoration: none; /* Remove underline from email links */
+}
+
+a[href^="mailto:"]:hover {
+    text-decoration: underline; /* Underline email links on hover for better UX */
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
 }

@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: "Arial", sans-serif;
     background-color: #111d4a; /* Dark background for the entire page */
     color: #f4f4f4; /* Light text color for better readability */
     margin: 5px;
@@ -14,6 +14,16 @@ p {
     margin: 2px;
     padding: 2px;
     text-align: left; /* Left-justify paragraphs */
+}
+
+.message {
+    padding: 20px;
+    background-color: #2b324d;
+    border: 1px solid #ddd;
+    margin: 20px auto;
+    border-radius: 8px;
+    max-width: 1000px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
 }
 
 ul, ol {
@@ -58,8 +68,10 @@ h3 {
 .job-section {
     background-color: #2a3b5a; /* Darker background for each job section */
     border-radius: 8px;
-    padding: 2px;
+    padding: 10px;
     margin-bottom: 20px; /* Space between job sections */
+    word-wrap: break-word; /* Allow long words to break and wrap onto the next line */
+    overflow: hidden; /* Prevent content from overflowing */
 }
 
 .main-category {
@@ -81,6 +93,11 @@ h3 {
     background-color: #1e2a45; /* Slightly different background for links */
     border-radius: 4px;
     padding: 10px;
+    word-wrap: break-word; /* Ensure long text wraps within the link container */
+    overflow-wrap: break-word; /* Ensure long text wraps correctly */
+    white-space: normal; /* Allow text to wrap onto multiple lines */
+    overflow: hidden; /* Prevent content from overflowing */
+    text-overflow: ellipsis; /* Show ellipsis for overflow text */
 }
 
 .category {
@@ -92,6 +109,8 @@ h3 {
 .link a {
     color: #00aaff; /* Link color */
     text-decoration: none; /* Remove underline from links */
+    overflow: hidden; /* Prevent content from overflowing */
+    text-overflow: ellipsis; /* Show ellipsis for overflow text */
 }
 
 .link a:hover {
@@ -115,7 +134,7 @@ h3 {
 }
 
 #searchWrapper::after {
-    content: '🔍';
+    content: "🔍";
     position: absolute;
     top: 10px;
     right: 15px;
@@ -133,7 +152,6 @@ h3 {
     max-width: 400px;
     background-color: #000000;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    text-align: center;
 }
 
 .contact-info p {
@@ -174,6 +192,7 @@ a[href^="mailto:"] {
 a[href^="mailto:"]:hover {
     text-decoration: underline; /* Underline email links on hover for better UX */
 }
+
 .image-container {
     display: flex;
     justify-content: center;

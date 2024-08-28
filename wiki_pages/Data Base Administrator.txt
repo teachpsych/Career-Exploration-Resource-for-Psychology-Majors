@@ -1,0 +1,7 @@
+====== Data Base Administrator ======
+
+  * O*NET:: http://online.onetcenter.org/link/summary/15-1061.00
+  * OOH:: http://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm
+  * Video:: https://www.drkit.org/database-administrator/
+  * Video:: http://www.youtube.com/watch?v=Y7iIZYkwR9I
+  * Video:: http://www.youtube.com/watch?v=G9W5qGjdB_o

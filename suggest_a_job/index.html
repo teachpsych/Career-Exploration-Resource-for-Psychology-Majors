@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Submission Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        select, input[type="text"] {
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        input[type="text"] {
+            width: 100%;
+        }
+        #jobTitle {
+            width: 70%;
+        }
+        select {
+            width: auto;
+            min-width: 100px;
+        }
+        .links-group {
+            margin-top: 20px;
+        }
+        .links-group .form-group {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        .links-group select {
+            flex-shrink: 0;
+        }
+        .links-group input[type="text"] {
+            flex: 1;
+        }
+        .add-link-btn {
+            margin-top: 10px;
+            margin-bottom: 20px; /* Added space between Add Link and Submit buttons */
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Job Submission Form</h1>
+    
+    <form id="jobForm">
+        <div class="form-group">
+            <label for="jobTitle">Job Title:</label>
+            <input type="text" id="jobTitle" name="jobTitle" required>
+        </div>
+
+        <div class="form-group">
+            <label for="degreeRequired">Degree Required:</label>
+            <select id="degreeRequired" name="degreeRequired" required>
+                <option value="">Select a degree</option>
+                <option value="Bachelors">Bachelor's in Psychology</option>
+                <option value="Masters">Master's in Psychology</option>
+                <option value="PhD">PhD in Psychology</option>
+                <option value="PsyD">PsyD (Doctor of Psychology)</option>
+                <option value="EdD">EdD (Doctor of Education in Psychology)</option>
+                <option value="MA">MA in Clinical Psychology</option>
+                <option value="MS">MS in Counseling Psychology</option>
+            </select>
+        </div>
+
+        <div class="links-group" id="linksGroup">
+            <div class="form-group">
+                <select id="linkType1" name="linkType[]">
+                    <option value="O*NET">O*NET</option>
+                    <option value="OOH">OOH</option>
+                    <option value="Wild Card">Wild Card</option>
+                    <option value="Video">Video</option>
+                    <option value="APA">APA</option>
+                    <option value="PsycNet">PsycNet</option>
+                </select>
+                <input type="text" id="link1" name="link[]" placeholder="Enter the link" required>
+            </div>
+        </div>
+
+        <button type="button" class="add-link-btn" onclick="addLinkField()">Add Link</button>
+
+        <div class="form-group">
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+
+    <script>
+        let linkCount = 1;
+
+        function addLinkField() {
+            linkCount++;
+            const linksGroup = document.getElementById('linksGroup');
+
+            const newFormGroup = document.createElement('div');
+            newFormGroup.className = 'form-group';
+
+            const newSelect = document.createElement('select');
+            newSelect.setAttribute('id', 'linkType' + linkCount);
+            newSelect.setAttribute('name', 'linkType[]');
+            newSelect.innerHTML = `
+                <option value="O*NET">O*NET</option>
+                <option value="OOH">OOH</option>
+                <option value="Wild Card">Wild Card</option>
+                <option value="Video">Video</option>
+                <option value="APA">APA</option>
+                <option value="PsycNet">PsycNet</option>
+            `;
+            newFormGroup.appendChild(newSelect);
+
+            const newInput = document.createElement('input');
+            newInput.setAttribute('type', 'text');
+            newInput.setAttribute('id', 'link' + linkCount);
+            newInput.setAttribute('name', 'link[]');
+            newInput.setAttribute('placeholder', 'Enter the link');
+            newFormGroup.appendChild(newInput);
+
+            linksGroup.appendChild(newFormGroup);
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+====== Dentist ======
+
+  * O*NET:: http://www.onetonline.org/link/summary/29-1021.00
+  * OOH:: http://www.bls.gov/ooh/healthcare/dentists.htm
+  * Video:: https://www.drkit.org/dentist/

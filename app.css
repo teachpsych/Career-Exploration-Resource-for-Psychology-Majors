@@ -1,7 +1,7 @@
 body {
     font-family: "Arial", sans-serif;
-    background-color: #111d4a; /* Dark background for the entire page */
-    color: #f4f4f4; /* Light text color for better readability */
+    background-color: #111d4a;
+    color: #f4f4f4;
     margin: 5px;
     padding: 20px;
 }
@@ -13,7 +13,7 @@ body {
 p {
     margin: 2px;
     padding: 2px;
-    text-align: left; /* Left-justify paragraphs */
+    text-align: left;
 }
 
 .message {
@@ -23,31 +23,30 @@ p {
     margin: 20px auto;
     border-radius: 8px;
     max-width: 1000px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 ul, ol {
     margin: 10px;
     padding: 10px;
-    text-align: left; /* Left-justify lists */
+    text-align: left;
 }
 
 h1, h2, h3 {
-    color: #f4f4f4; /* Light color for the headings */
-    text-align: center; /* Center the text horizontally */
-    /* margin-bottom: 3px; Space below each heading */
+    color: #f4f4f4;
+    text-align: center;
 }
 
 h1 {
-    font-size: 2.5em; /* Font size for the main heading */
+    font-size: 2.5em;
 }
 
 h2 {
-    font-size: 2em; /* Font size for subheadings */
+    font-size: 2em;
 }
 
 h3 {
-    font-size: 1.1em; /* Font size for smaller subheadings */
+    font-size: 1.1em;
 }
 
 .container {
@@ -55,33 +54,33 @@ h3 {
     margin: auto;
     max-width: 1000px;
     text-align: center;
-    background-color: #1f2a48; /* Slightly lighter background for the container */
-    border-radius: 8px; /* Rounded corners for the container */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+    background-color: #1f2a48;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 #jobslist {
     padding-inline-start: 0;
-    list-style-type: none; /* Remove bullets from list items */
+    list-style-type: none;
 }
 
 .job-section {
-    background-color: #2a3b5a; /* Darker background for each job section */
+    background-color: #2a3b5a;
     border-radius: 8px;
     padding: 10px;
-    margin-bottom: 20px; /* Space between job sections */
-    word-wrap: break-word; /* Allow long words to break and wrap onto the next line */
-    overflow: hidden; /* Prevent content from overflowing */
+    margin-bottom: 20px;
+    word-wrap: break-word;
+    overflow: hidden;
 }
 
 .main-category {
-    color: #ff9900; /* Bright color for the main category */
+    color: #ff9900;
     font-size: 2em;
     margin-bottom: 20px;
 }
 
 .job-title {
-    color: #00aaff; /* Bright blue for job titles */
+    color: #00aaff;
     font-size: 1.5em;
     margin-bottom: 10px;
 }
@@ -89,43 +88,41 @@ h3 {
 .link {
     display: flex;
     align-items: center;
-    margin-bottom: 10px; /* Add spacing between items */
-    background-color: #1e2a45; /* Slightly different background for links */
+    margin-bottom: 10px;
+    background-color: #1e2a45;
     border-radius: 4px;
     padding: 10px;
-    word-wrap: break-word; /* Ensure long text wraps within the link container */
-    overflow-wrap: break-word; /* Ensure long text wraps correctly */
-    white-space: normal; /* Allow text to wrap onto multiple lines */
-    overflow: hidden; /* Prevent content from overflowing */
-    text-overflow: ellipsis; /* Show ellipsis for overflow text */
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .category {
-    margin-right: 15px; /* Space between category and URL */
+    margin-right: 15px;
     font-weight: bold;
-    color: #ffcc00; /* Yellow color for the category */
+    color: #ffcc00;
 }
 
 .link a {
-    color: #00aaff; /* Link color */
-    text-decoration: none; /* Remove underline from links */
-    overflow: hidden; /* Prevent content from overflowing */
-    text-overflow: ellipsis; /* Show ellipsis for overflow text */
+    color: #00aaff;
+    text-decoration: none;
 }
 
 .link a:hover {
-    text-decoration: underline; /* Underline on hover for better UX */
+    text-decoration: underline;
 }
 
 #searchBar {
     width: 100%;
-    height: 40px; /* Increased height for better usability */
+    height: 40px;
     border-radius: 4px;
-    border: 1px solid #444; /* Darker border for better contrast */
+    border: 1px solid #444;
     padding: 10px;
-    font-size: 14px; /* Slightly larger font size */
-    background-color: #222; /* Darker background for the search bar */
-    color: #f4f4f4; /* Light text color for input */
+    font-size: 14px;
+    background-color: #222;
+    color: #f4f4f4;
 }
 
 #searchWrapper {
@@ -138,11 +135,11 @@ h3 {
     position: absolute;
     top: 10px;
     right: 15px;
-    color: #f4f4f4; /* Light color for the search icon */
+    color: #f4f4f4;
 }
 
 .contact-info {
-    text-align: center; /* Center the text horizontally */
+    text-align: center;
     font-family: Arial, sans-serif;
     line-height: 1.1;
     margin: 10px auto;
@@ -155,12 +152,12 @@ h3 {
 }
 
 .contact-info p {
-    text-align: center; /* Center the text horizontally */
+    text-align: center;
     margin: 5px;
 }
 
 .contact-info a {
-    color: #ff0000; /* A shade of blue for the email link */
+    color: #ff0000;
     text-decoration: none;
 }
 
@@ -168,29 +165,35 @@ h3 {
     text-decoration: underline;
 }
 
-.important {
-    font-weight: bold;
+.video-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
 }
 
-.highlight-yellow {
-    background-color: #ffff00; /* Yellow highlight */
+.modal-content {
+    position: relative;
+    width: 80%;
+    max-width: 600px;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
 }
 
-.highlight-blue {
-    background-color: #cce5ff; /* Blue highlight */
-}
-
-.highlight-green {
-    background-color: #d4edda; /* Green highlight */
-}
-
-a[href^="mailto:"] {
-    color: #ff0000; /* White text color */
-    text-decoration: none; /* Remove underline from email links */
-}
-
-a[href^="mailto:"]:hover {
-    text-decoration: underline; /* Underline email links on hover for better UX */
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 24px;
+    color: #000;
 }
 
 .image-container {
@@ -203,4 +206,66 @@ a[href^="mailto:"]:hover {
     display: block;
     max-width: 100%;
     height: auto;
+}
+.video-popup {
+    display: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Ensure it appears above other elements */
+}
+
+.popup-content {
+    position: relative;
+    width: 80%;
+    max-width: 600px;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 30px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+/* Video wrapper to maintain aspect ratio */
+.video-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 560px;
+    margin: auto;
+    padding-bottom: 56.25%; /* This maintains a 16:9 aspect ratio (height/width = 9/16 = 0.5625) */
+    height: 0; /* Set the height to 0, and use padding-bottom for aspect ratio */
+    background: #000;
+    overflow: hidden; /* Hide anything that goes outside the container */
+}
+
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none; /* No border on the iframe */
+}
+
+.video-thumbnail {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the thumbnail image covers the entire wrapper */
+    cursor: pointer;
+}
+
+/* Optional: Add some styling to indicate the video thumbnail is clickable */
+.video-thumbnail:hover {
+    opacity: 0.8;
 }

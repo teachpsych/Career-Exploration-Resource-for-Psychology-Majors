@@ -1,7 +1,6 @@
 const jobslist = document.getElementById('jobslist');
 const searchBar = document.getElementById('searchBar');
 const mainCategory = document.getElementById('mainCategory');
-const videoContainer = document.getElementById('video-container');
 let jobData = [];
 
 // Event listener for the search bar
@@ -54,64 +53,88 @@ const loadJobs = async () => {
                 job
             }));
         }));
-        await loadVideos(); // Load videos after jobs are loaded
     } catch (err) {
         console.error(err);
     }
 };
 
 // Function to display jobs
+// Function to display jobs
 const displayJobs = (jobs) => {
     let lastCategory = '';
+    const htmlString = jobs.map(({ main_category, jobTitle, job }) => {
+        const isNewCategory = main_category !== lastCategory;
+        lastCategory = main_category;
 
-    const htmlString = jobs
-        .map(({ main_category, jobTitle, job }) => {
-            const isNewCategory = main_category !== lastCategory;
-            lastCategory = main_category;
+        const linksHtml = job.links.map(link => {
+            return `
+                <li class="link">
+                    <span class="category">${link.category}</span>
+                    <a href="${link.url}" target="_blank">${link.url}</a>
+                </li>
+            `;
+        }).join('');
 
-            const linksHtml = job.links
-                .map(link => {
-                    if (link.url.includes('youtube.com/watch')) {
-                        const videoId = extractVideoId(link.url);
-                        return `
-                            <li class="link video">
-                                <iframe width="560" height="315" 
-                                        src="https://www.youtube.com/embed/${videoId}?si=XTUu8vUPdTepSLYV" 
-                                        title="YouTube video player" 
-                                        frameborder="0" 
-                                        loading="lazy" 
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                                        referrerpolicy="strict-origin-when-cross-origin" 
-                                        allowfullscreen>
-                                </iframe>
-                            </li>
-                        `;
-                    } else {
-                        return `
-                            <li class="link">
-                                <span class="category">${link.category}</span>
-                                <a href="${link.url}" target="_blank">${link.url}</a>
-                            </li>
-                        `;
-                    }
-                })
-                .join('');
+        // Add margin between video containers
+        const videosHtml = job.videos.map(video => {
+            const videoId = extractVideoId(video.url);
+            const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
 
             return `
-                ${isNewCategory ? `<h2 class="main-category">${main_category}</h2>` : ''}
-                <div class="job-section">
-                    <h3 class="job-title">${jobTitle}</h3>
-                    <ul class="links-list">
-                        ${linksHtml}
-                    </ul>
+                <div class="video-wrapper" data-video-id="${videoId}" style="margin-bottom: 20px;"> <!-- Added margin-bottom for spacing -->
+                    <img src="${thumbnailUrl}" class="video-thumbnail" alt="Video thumbnail" style="cursor: pointer;" />
                 </div>
             `;
-        })
-        .join('');
+        }).join(''); // Each video gets a bottom margin to create space between them
+
+        return `
+            ${isNewCategory ? `<h2 class="main-category">${main_category}</h2>` : ''}
+            <div class="job-section">
+                <h3 class="job-title">${jobTitle}</h3>
+                <ul class="links-list">${linksHtml}</ul>
+                <div class="videos-container">${videosHtml}</div>
+            </div>
+        `;
+    }).join('');
 
     jobslist.innerHTML = htmlString;
     updateMainCategory(jobs);
+
+    // Add event listeners for lazy loading videos
+    document.querySelectorAll('.video-thumbnail').forEach(thumbnail => {
+        thumbnail.addEventListener('click', function() {
+            const videoWrapper = this.closest('.video-wrapper');
+            const videoId = videoWrapper.dataset.videoId;
+
+            const iframe = document.createElement('iframe');
+            iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+            iframe.setAttribute('frameborder', '0');
+            iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
+            iframe.setAttribute('allowfullscreen', true);
+            iframe.setAttribute('loading', 'lazy'); // Enables lazy loading for the iframe
+
+            videoWrapper.innerHTML = ''; // Clear the thumbnail
+            videoWrapper.appendChild(iframe); // Replace with the iframe
+
+            // Track video visibility
+            observeVideo(videoWrapper, iframe);
+        });
+    });
 };
+
+
+// Function to observe and pause the video when out of view
+function observeVideo(videoWrapper, iframe) {
+    const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            if (!entry.isIntersecting) {
+                iframe.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+            }
+        });
+    });
+
+    observer.observe(videoWrapper);
+}
 
 // Function to update the main category display
 const updateMainCategory = (jobs) => {
@@ -123,43 +146,11 @@ const updateMainCategory = (jobs) => {
     }
 };
 
-// Function to load videos data
-const loadVideos = async () => {
-    try {
-        const res = await fetch('videos.json'); // Adjust the path if necessary
-        const videoData = await res.json();
-        displayVideos(videoData);
-    } catch (err) {
-        console.error(err);
-    }
-};
-
-// Function to display videos
-const displayVideos = (videos) => {
-    const htmlString = videos
-        .map(video => {
-            const videoId = extractVideoId(video.url);
-            return `
-                <iframe width="560" height="315" 
-                        src="https://www.youtube.com/embed/${videoId}?si=XTUu8vUPdTepSLYV" 
-                        title="YouTube video player" 
-                        frameborder="0" 
-                        loading="lazy" 
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                        referrerpolicy="strict-origin-when-cross-origin" 
-                        allowfullscreen>
-                </iframe>
-            `;
-        })
-        .join('');
-    videoContainer.innerHTML = htmlString;
-};
-
 // Function to extract the YouTube video ID from the URL
 const extractVideoId = (url) => {
     const urlParams = new URLSearchParams(new URL(url).search);
     return urlParams.get('v') || url.split('/').pop();
 };
 
-// Load jobs and videos data when the page is ready
+// Load jobs data when the page is ready
 document.addEventListener('DOMContentLoaded', loadJobs);

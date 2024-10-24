@@ -1,3 +1,6 @@
+// careers can be entered with a bachelor’s degree (highlighted in BLUE), 
+// and those whose careers require a graduate degree (highlighted in GREEN).
+
 const jobslist = document.getElementById('jobslist');
 const searchBar = document.getElementById('searchBar');
 const mainCategory = document.getElementById('mainCategory');

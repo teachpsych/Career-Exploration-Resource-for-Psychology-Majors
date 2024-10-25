@@ -59,8 +59,9 @@ const loadMoreJobs = () => {
 
 // Function to reset jobs when search input is cleared
 const resetJobs = () => {
+    filteredJobs = []; // Clear the filteredJobs to indicate all jobs should be shown
     displayedJobs = [];
-    currentIndex = 0;
+    currentIndex = 0; // Reset index to zero for loading
     loadMoreJobs(); // Load the first chunk again
 };
 

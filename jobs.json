@@ -79,7 +79,8 @@
                         "url": "https://www.youtube.com/watch?v=OxKlgYDsdX4"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $39,680     per year\n                                        <br/>$19.08     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    High school diploma or equivalent</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    2,954,600</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">-5% (Decline)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    -148,800</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Customer Service Representative Supervisor": {
                 "links": [
@@ -152,7 +153,8 @@
                         "url": "https://www.youtube.com/watch?v=traGKwKz93k"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $99,580     per year\n                                        <br/>$47.88     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    321,000</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">17% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    55,000</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/business-and-financial/personal-financial-advisors.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Fund Raiser": {
                 "links": [
@@ -259,7 +261,8 @@
                         "url": "https://www.youtube.com/watch?v=OFuRkFAyxr4"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $69,990     per year\n                                        <br/>$33.65     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    334,100</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">1% (Slower than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    4,500</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/business-and-financial/loan-officers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Loss Prevention Manager": {
                 "links": [
@@ -313,7 +316,8 @@
                         "url": "http://www.youtube.com/watch?v=WY4fq7Tudv8"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $99,410     per year\n                                        <br/>$47.80     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    1,018,300</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">11% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    107,900</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/business-and-financial/management-analysts.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Market Research Analyst": {
                 "links": [
@@ -371,7 +375,8 @@
                         "url": "https://www.youtube.com/watch?v=d6_0MxDMPBw"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $110,680     per year\n                                        <br/>$53.21     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    562,700</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">29% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    160,600</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/management/medical-and-health-services-managers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Media Buyer": {
                 "links": [
@@ -481,7 +486,8 @@
                         "url": "https://www.youtube.com/watch?v=Jdii7KZkEow"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $56,620     per year\n                                        <br/>$27.22     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    High school diploma or equivalent</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    544,400</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">2% (Slower than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    10,100</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Realtor or Real Estate Broker": {
                 "links": [
@@ -504,7 +510,8 @@
                         "url": "https://www.youtube.com/watch?v=xqDMgjd5_K8"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $56,620     per year\n                                        <br/>$27.22     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    High school diploma or equivalent</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    544,400</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">2% (Slower than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    10,100</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Retail Salesperson": {
                 "links": [
@@ -527,7 +534,8 @@
                         "url": "http://www.youtube.com/watch?v=YRr2mTeHZJ0"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $33,900     per year\n                                        <br/>$16.30     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    No formal educational credential</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    4,078,000</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">0% (Little or no change)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    7,900</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/sales/retail-sales-workers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Sales Representative": {
                 "links": [
@@ -550,7 +558,8 @@
                         "url": "https://www.youtube.com/watch?v=1aYfS9-TTiM"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $73,080     per year\n                                        <br/>$35.13     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">     See How to Become One</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    1,681,400</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">1% (Slower than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    20,000</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/sales/wholesale-and-manufacturing-sales-representatives.htm#tab-2\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Training and Development Manager": {
                 "links": [
@@ -593,7 +602,8 @@
                         "url": "https://www.youtube.com/watch?v=VjRJOCR5q3g"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $125,040     per year\n                                        <br/>$60.12     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    43,200</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">7% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    3,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/OOH/management/training-and-development-managers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Training and Development Specialist": {
                 "links": [
@@ -615,7 +625,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $64,340     per year\n                                        <br/>$30.94     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    420,100</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">12% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    48,500</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/OOH/business-and-financial/training-and-development-specialists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Public Relations Representative": {
                 "links": [
@@ -1503,7 +1514,8 @@
                         "url": "http://www.youtube.com/watch?v=dJuo937gz44"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $95,770     per year\n                                        <br/>$46.05     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    3,500</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">16% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    600</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/genetic-counselors.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Gerontological Counselor": {
                 "links": [
@@ -1795,7 +1807,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $61,710     per year\n                                        <br/>$29.67     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    360,800</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    16,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/community-and-social-service/school-and-career-counselors.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Spiritual or Meditative Counselor": {
                 "links": [
@@ -1940,7 +1953,8 @@
                         "url": "http://www.youtube.com/watch?v=Y3bx6IWYmD8"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $63,670     per year\n                                        \n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    1,563,700</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">-1% (Decline)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    -11,500</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/education-training-and-library/kindergarten-and-elementary-school-teachers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Financial Aid Counselor": {
                 "links": [
@@ -1988,7 +2002,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $65,220     per year\n                                        \n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    1,071,400</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">-1% (Decline)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    -6,900</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/education-training-and-library/high-school-teachers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Preschool Teacher": {
                 "links": [
@@ -2014,7 +2029,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $37,130     per year\n                                        <br/>$17.85     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Associate's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    528,500</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    23,300</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/education-training-and-library/preschool-teachers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Residential Advisor / Director": {
                 "links": [
@@ -2234,7 +2250,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $64,340     per year\n                                        <br/>$30.94     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    420,100</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">12% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    48,500</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/OOH/business-and-financial/training-and-development-specialists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Transcript Evaluator": {
                 "links": [],
@@ -2284,7 +2301,8 @@
                         "url": "https://www.youtube.com/watch?v=4kHTEUDqUSQ"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $61,710     per year\n                                        <br/>$29.67     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    360,800</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    16,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/community-and-social-service/school-and-career-counselors.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Assessment Professional or Program Evaluator": {
                 "links": [
@@ -2359,7 +2377,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $84,380     per year\n                                        \n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">     See How to Become One</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    1,397,600</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">8% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    111,400</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/education-training-and-library/postsecondary-teachers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "College or University Administrator": {
                 "links": [
@@ -2377,7 +2396,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $102,610     per year\n                                        <br/>$49.33     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    216,400</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">3% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    6,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/management/postsecondary-education-administrators.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Director of College or University Admissions": {
                 "links": [
@@ -2400,7 +2420,8 @@
                         "url": "http://www.youtube.com/watch?v=GpRFIClAWEg"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $102,610     per year\n                                        <br/>$49.33     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    216,400</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">3% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    6,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/management/postsecondary-education-administrators.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Educational Psychologist": {
                 "links": [
@@ -2486,7 +2507,8 @@
                         "url": "https://www.youtube.com/watch?v=5ukp8Kf0chY"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $74,620     per year\n                                        <br/>$35.87     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    225,200</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">2% (Slower than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    4,100</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/education-training-and-library/instructional-coordinators.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Instructional Designer or E-Learning Developer": {
                 "links": [
@@ -2577,7 +2599,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $61,710     per year\n                                        <br/>$29.67     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    360,800</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    16,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/community-and-social-service/school-and-career-counselors.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "School Psychologist": {
                 "links": [
@@ -2693,7 +2716,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $58,380     per year\n                                        <br/>$28.07     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">     See How to Become One</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    751,900</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">7% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    54,700</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/community-and-social-service/social-workers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Social Work Teacher, Postsecondary": {
                 "links": [
@@ -2755,7 +2779,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $89,290     per year\n                                        <br/>$42.93     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    180,800</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">18% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    33,300</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Student Affairs Professional": {
                 "links": [],
@@ -2915,7 +2940,8 @@
                         "url": "http://www.youtube.com/watch?v=Ex0OFvSGpwQ"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $62,860     per year\n                                        <br/>$30.22     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    62,100</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">7% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    4,300</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/community-and-social-service/health-educators.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Health Information Specialist": {
                 "links": [
@@ -2977,7 +3003,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $60,580     per year\n                                        <br/>$29.13     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Associate's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    61,000</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    2,500</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/personal-care-and-service/funeral-service-occupations.htm#tab-1\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Medical Scribe": {
                 "links": [
@@ -3030,7 +3057,8 @@
                         "url": "https://www.youtube.com/watch?v=d6_0MxDMPBw"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $110,680     per year\n                                        <br/>$53.21     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    562,700</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">29% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    160,600</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/management/medical-and-health-services-managers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Paramedic or Emergency Medical Technician": {
                 "links": [
@@ -3052,7 +3080,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $44,780     per year\n                                        <br/>$21.53     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Postsecondary nondegree award</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    270,400</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">6% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    16,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Patient Advocate": {
                 "links": [
@@ -3131,7 +3160,8 @@
                         "url": "https://www.youtube.com/watch?v=u4flggkTkeg"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $39,610     per year\n                                        <br/>$19.05     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">     See How to Become One</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    160,600</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">13% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    21,600</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/psychiatric-technicians-and-aides.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Psychiatric Technician": {
                 "links": [
@@ -3244,7 +3274,8 @@
                         "url": "https://www.youtube.com/watch?v=_OIcPbndZMo"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $87,740     per year\n                                        <br/>$42.19     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Doctoral or professional degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    14,400</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">11% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    1,600</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/audiologists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Behavioral Health Consultant / Counselor": {
                 "links": [
@@ -3311,7 +3342,8 @@
                         "url": "https://www.youtube.com/watch?v=IvtYWaRdq3k"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $76,530     per year\n                                        <br/>$36.79     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Doctoral or professional degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    61,200</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">10% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    6,100</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/chiropractors.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Child Psychiatrist": {
                 "links": [
@@ -3347,7 +3379,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $170,910     per year\n                                        <br/>$82.17     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Doctoral or professional degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    160,600</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">5% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    7,300</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/dentists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Dietitian": {
                 "links": [
@@ -3370,7 +3403,8 @@
                         "url": "http://www.youtube.com/watch?v=OZYvFT4TscM"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $69,680     per year\n                                        <br/>$33.50     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    81,300</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">7% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    6,000</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/dietitians-and-nutritionists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Epidemiologist": {
                 "links": [
@@ -3413,7 +3447,8 @@
                         "url": "https://www.youtube.com/watch?v=rDRr8kpLdug"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $81,390     per year\n                                        <br/>$39.13     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    11,000</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">19% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    2,100</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Health Psychologist": {
                 "links": [
@@ -3741,7 +3776,8 @@
                         "url": "https://www.youtube.com/watch?v=sc3YJz2lBU4"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                            This wage is equal to or greater than $239,200 per year or $115.00 per hour.\n                                        \n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Doctoral or professional degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    834,500</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    34,500</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Nurse Practitioner": {
                 "links": [
@@ -3786,7 +3822,8 @@
                         "url": "http://www.youtube.com/watch?v=szOp8MD8ynI"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $131,860     per year\n                                        <br/>$63.39     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Doctoral or professional degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    49,300</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">9% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    4,300</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/optometrists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Pediatric Psychologist": {
                 "links": [
@@ -3899,7 +3936,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                            This wage is equal to or greater than $239,200 per year or $115.00 per hour.\n                                        \n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Doctoral or professional degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    834,500</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    34,500</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Physician Assistant": {
                 "links": [
@@ -3938,7 +3976,8 @@
                         "url": "https://www.youtube.com/watch?v=2u5mr9ZEK3s"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $130,020     per year\n                                        <br/>$62.51     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    153,400</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">28% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    43,700</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/physician-assistants.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Psychiatrist": {
                 "links": [
@@ -4087,7 +4126,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $119,100     per year\n                                        <br/>$57.26     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Doctoral or professional degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    88,200</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">19% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    16,800</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/veterinarians.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             }
         }
     },
@@ -4346,7 +4386,8 @@
                         "url": "https://www.youtube.com/watch?v=VjRJOCR5q3g"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $125,040     per year\n                                        <br/>$60.12     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    43,200</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">7% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    3,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/OOH/management/training-and-development-managers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Training and Development Specialist": {
                 "links": [
@@ -4372,7 +4413,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $64,340     per year\n                                        <br/>$30.94     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    420,100</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">12% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    48,500</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/OOH/business-and-financial/training-and-development-specialists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Career, Employment, or Vocational Counselor": {
                 "links": [
@@ -4504,7 +4546,8 @@
                         "url": "http://www.youtube.com/watch?v=vmLmxgmSUig"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $61,800     per year\n                                        <br/>$29.71     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    90,700</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    3,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/community-and-social-service/probation-officers-and-correctional-treatment-specialists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Corrections Officer": {
                 "links": [
@@ -4527,7 +4570,8 @@
                         "url": "http://www.youtube.com/watch?v=2mXxRl60XnY"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $53,290     per year\n                                        <br/>$25.62     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    High school diploma or equivalent</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    387,500</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">-6% (Decline)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    -25,100</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/protective-service/correctional-officers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Criminal Investigator or Detective (FBI and other)": {
                 "links": [
@@ -4590,7 +4634,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $71,420     per year\n                                        <br/>$34.34     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">     See How to Become One</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    17,300</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">6% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    1,100</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/protective-service/fire-inspectors-and-investigators.htm#tab-2\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Fraud Examiners / Investigators / Analyst": {
                 "links": [
@@ -4751,7 +4796,8 @@
                         "url": "http://www.youtube.com/watch?v=GjQtdOjXvH8"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $74,910     per year\n                                        <br/>$36.02     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">     See How to Become One</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    796,800</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    28,700</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/protective-service/police-and-detectives.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Polygraph Examiner": {
                 "links": [
@@ -4795,7 +4841,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $61,800     per year\n                                        <br/>$29.71     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    90,700</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    3,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/community-and-social-service/probation-officers-and-correctional-treatment-specialists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Security Manager": {
                 "links": [
@@ -5097,7 +5144,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $145,760     per year\n                                        <br/>$70.08     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Doctoral or professional degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    859,000</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">5% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    44,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/legal/lawyers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Operational Psychologist": {
                 "links": [
@@ -8377,7 +8425,8 @@
                         "url": "http://www.youtube.com/watch?v=VcsFzoBrmb0"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $58,380     per year\n                                        <br/>$28.07     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">     See How to Become One</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    751,900</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">7% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    54,700</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/community-and-social-service/social-workers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Community Organization Worker": {
                 "links": [
@@ -8576,7 +8625,8 @@
                         "url": "https://www.youtube.com/watch?v=gOn3ANiyo38"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $41,410     per year\n                                        <br/>$19.91     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    High school diploma or equivalent</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    433,000</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">8% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    34,400</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/community-and-social-service/social-and-human-service-assistants.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Clinical Social Worker": {
                 "links": [
@@ -8823,7 +8873,8 @@
                         "url": "https://www.youtube.com/watch?v=dEoqSY55WrM"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $45,910     per year\n                                        \n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    307,100</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">9% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    26,900</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/entertainment-and-sports/coaches-and-scouts.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Fitness Trainer, Personal Trainer, or Aerobics Instructor": {
                 "links": [
@@ -8898,7 +8949,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $34,410     per year\n                                        <br/>$16.55     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    High school diploma or equivalent</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    300,000</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">5% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    16,500</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/personal-care-and-service/recreation-workers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Recreational Therapist": {
                 "links": [
@@ -8929,7 +8981,8 @@
                         "url": "http://www.youtube.com/watch?v=1XJD5XDihhY"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $57,120     per year\n                                        <br/>$27.46     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    16,600</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    700</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/recreational-therapists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Exercise Therapist": {
                 "links": [
@@ -9146,7 +9199,8 @@
                         "url": "http://www.youtube.com/watch?v=Y7iIZYkwR9I"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $117,450     per year\n                                        <br/>$56.46     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    141,900</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">9% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    13,200</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Data Base Design Analyst": {
                 "links": [
@@ -9174,7 +9228,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $130,160     per year\n                                        <br/>$62.58     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    1,897,100</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">17% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    327,900</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Systems Analyst": {
                 "links": [
@@ -9201,7 +9256,8 @@
                         "url": "http://www.youtube.com/watch?v=tChuHB4eHQM"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $103,800     per year\n                                        <br/>$49.90     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    527,200</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">11% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    56,500</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/computer-and-information-technology/computer-systems-analysts.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "User Experience Analyst": {
                 "links": [
@@ -9380,7 +9436,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $58,740     per year\n                                        <br/>$28.24     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">     See How to Become One</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    152,800</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">19% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    28,800</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/physical-therapist-assistants-and-aides.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Recreational Therapist": {
                 "links": [
@@ -9411,7 +9468,8 @@
                         "url": "http://www.youtube.com/watch?v=1XJD5XDihhY"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $57,120     per year\n                                        <br/>$27.46     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    16,600</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    700</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/recreational-therapists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Applied Behavioral Analysis Therapist": {
                 "links": [
@@ -9485,7 +9543,8 @@
                         "url": "https://www.youtube.com/watch?v=Dej22djjBrw"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $57,120     per year\n                                        <br/>$27.46     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    16,600</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    700</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/recreational-therapists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Dialectical Behavioral Therapist": {
                 "links": [
@@ -9707,7 +9766,8 @@
                         "url": "https://www.youtube.com/watch?v=r0aCJtkDdSE"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $96,370     per year\n                                        <br/>$46.33     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    150,500</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">11% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    16,800</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/occupational-therapists.htm#tab-1\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Outpatient Therapist": {
                 "links": [
@@ -9778,7 +9838,8 @@
                         "url": "https://www.youtube.com/watch?v=wJjykZLfHA4"
                     }
                 ],
-                "degree_required": "Graduate's"
+                "degree_required": "Graduate's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $99,710     per year\n                                        <br/>$47.94     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Doctoral or professional degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    259,200</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">14% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    36,800</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/healthcare/physical-therapists.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Primary Therapist": {
                 "links": [
@@ -10043,7 +10104,8 @@
                         "url": "https://www.youtube.com/watch?v=9pJUwqpl0vQ"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        \n                                        $24.95     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">     See How to Become One</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    20,600</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">6% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    1,300</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/OOH/entertainment-and-sports/dancers-and-choreographers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Emergency Management Director/Coordinator": {
                 "links": [
@@ -10086,7 +10148,8 @@
                         "url": "https://www.youtube.com/watch?v=8tYeBn1k6QU"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $83,960     per year\n                                        <br/>$40.37     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    12,400</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    500</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/OOH/management/emergency-management-directors.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Flight Attendant": {
                 "links": [
@@ -10121,7 +10184,8 @@
                         "url": "https://www.youtube.com/watch?v=C-FkCDuCmgA"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $68,370     per year\n                                        \n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    High school diploma or equivalent</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    130,300</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">10% (Much faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    12,900</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/OOH/transportation-and-material-moving/flight-attendants.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Interior Designer": {
                 "links": [
@@ -10143,7 +10207,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $62,510     per year\n                                        <br/>$30.05     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    92,200</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    3,700</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/arts-and-design/interior-designers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Life Coach": {
                 "links": [
@@ -10209,7 +10274,8 @@
                         "url": "https://www.youtube.com/watch?v=hsRRMaX_neg"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $56,920     per year\n                                        <br/>$27.36     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    149,000</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">7% (Faster than average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    9,900</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm#tab-1\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Photographer": {
                 "links": [
@@ -10268,7 +10334,8 @@
                     }
                 ],
                 "videos": [],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $60,960     per year\n                                        <br/>$29.31     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Master's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    9,700</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">0% (Little or no change)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    0</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/life-physical-and-social-science/survey-researchers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Technical Writer": {
                 "links": [
@@ -10291,7 +10358,8 @@
                         "url": "https://www.youtube.com/watch?v=eZm22PGDeVk"
                     }
                 ],
-                "degree_required": "Bachelor's"
+                "degree_required": "Bachelor's",
+                "jobs_table": "<table class=\"regular-text tooltips\" id=\"quickfacts\">\n<thead>\n<tr><th colspan=\"2\">Quick Facts Table</th></tr>\n</thead>\n<tbody>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-1-0\" role=\"rowheader\">\t\t\t\t\t\t\t\t\t\t2023     Median Pay\t\t\t\t\t\t\t\t\t\t </th>\n<td headers=\"quickfacts-1-0 quickfacts-0-0\">\n                                        $80,050     per year\n                                        <br/>$38.49     per hour\n                                    </td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-2-0\" role=\"rowheader\">    Typical Entry-Level Education</th>\n<td headers=\"quickfacts-2-0 quickfacts-0-0\">    Bachelor's degree</td>\n</tr>\n\n\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-5-0\" role=\"rowheader\">    Number of Jobs, 2023</th>\n<td headers=\"quickfacts-5-0 quickfacts-0-0\">    50,100</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-6-0\" role=\"rowheader\">    Job Outlook, 2023-33</th>\n<td headers=\"quickfacts-6-0 quickfacts-0-0\">4% (As fast as average)</td>\n</tr>\n<tr>\n<th headers=\"quickfacts-0-0\" id=\"quickfacts-7-0\" role=\"rowheader\">    Employment Change, 2023-33</th>\n<td headers=\"quickfacts-7-0 quickfacts-0-0\">    2,000</td>\n</tr>\n<tr><th colspan=\"2\">Source: <a href=\"http://www.bls.gov/ooh/media-and-communication/technical-writers.htm\">www.bls.gov</a></th></tr></tbody>\n</table>"
             },
             "Transformational Coach": {
                 "links": [

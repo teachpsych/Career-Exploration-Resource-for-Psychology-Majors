@@ -326,3 +326,99 @@ h3 {
 .degree-box.green {
     background-color: #28a745; /* Green for Graduate degree */
 }
+
+
+/* Basic styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 20px;
+}
+
+/* Style for the table */
+table {
+    width: 50%;  /* Set table width to 50% for left half of the screen */
+    /* border-collapse: collapse; */
+    margin: 20px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for table headers */
+th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    text-align: left;  /* Align text in headers to the left */
+}
+
+/* Style for table cells */
+td {
+    padding: 8px;  /* Reduced padding for less whitespace */
+    /* border: 1px solid #ddd; */
+    text-align: left;  /* Left-align text in cells */
+    white-space: nowrap;  /* Prevent text wrapping */
+}
+
+/* Hover effect for table rows */
+tr:hover {
+    background-color: #ff000015;
+}
+
+/* Responsive table */
+@media (max-width: 600px) {
+    table {
+        width: 100%;
+        display: block;
+        overflow-x: auto;
+    }
+}
+
+
+/* Basic styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 20px;
+}
+
+/* Style for the table */
+table {
+    width: 60%;  /* Set table width to 60% to make it a bit wider */
+    border-collapse: collapse;
+    margin: 20px auto; /* Center-align the table */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for table headers */
+th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    text-align: left;  /* Align text in headers to the left */
+}
+
+/* Style for table cells */
+td {
+    padding: 8px;  /* Reduced padding for less whitespace */
+    text-align: left;  /* Left-align text in cells */
+    white-space: nowrap;  /* Prevent text wrapping */
+}
+
+/* Wider first column */
+td:first-child, th:first-child {
+    width: 40%; /* Adjust this width as necessary for the first column */
+}
+
+/* Hover effect for table rows */
+tr:hover {
+    background-color: #ff000015;
+}
+
+/* Responsive table */
+@media (max-width: 600px) {
+    table {
+        width: 100%;
+        display: block;
+        overflow-x: auto;
+    }
+}

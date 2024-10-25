@@ -1,6 +1,3 @@
-// careers can be entered with a bachelor’s degree (highlighted in BLUE), 
-// and those whose careers require a graduate degree (highlighted in GREEN).
-
 const jobslist = document.getElementById('jobslist');
 const searchBar = document.getElementById('searchBar');
 const mainCategory = document.getElementById('mainCategory');
@@ -61,8 +58,6 @@ const loadJobs = async () => {
     }
 };
 
-// Function to display jobs
-// Function to display jobs
 const displayJobs = (jobs) => {
     let lastCategory = '';
     const htmlString = jobs.map(({ main_category, jobTitle, job }) => {
@@ -78,22 +73,23 @@ const displayJobs = (jobs) => {
             `;
         }).join('');
 
-        // Add margin between video containers
         const videosHtml = job.videos.map(video => {
             const videoId = extractVideoId(video.url);
             const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
 
             return `
-                <div class="video-wrapper" data-video-id="${videoId}" style="margin-bottom: 20px;"> <!-- Added margin-bottom for spacing -->
+                <div class="video-wrapper" data-video-id="${videoId}" style="margin-bottom: 20px;">
                     <img src="${thumbnailUrl}" class="video-thumbnail" alt="Video thumbnail" style="cursor: pointer;" />
                 </div>
             `;
-        }).join(''); // Each video gets a bottom margin to create space between them
+        }).join('');
 
+        // Display degree required in a separate text box next to the job title
         return `
             ${isNewCategory ? `<h2 class="main-category">${main_category}</h2>` : ''}
             <div class="job-section">
                 <h3 class="job-title">${jobTitle}</h3>
+                <span class="degree-box">Degree Required: ${job.degree_required}</span> <!-- Degree info in a separate box -->
                 <ul class="links-list">${linksHtml}</ul>
                 <div class="videos-container">${videosHtml}</div>
             </div>
@@ -114,30 +110,13 @@ const displayJobs = (jobs) => {
             iframe.setAttribute('frameborder', '0');
             iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
             iframe.setAttribute('allowfullscreen', true);
-            iframe.setAttribute('loading', 'lazy'); // Enables lazy loading for the iframe
+            iframe.setAttribute('loading', 'lazy');
 
             videoWrapper.innerHTML = ''; // Clear the thumbnail
-            videoWrapper.appendChild(iframe); // Replace with the iframe
-
-            // Track video visibility
-            observeVideo(videoWrapper, iframe);
+            videoWrapper.appendChild(iframe);
         });
     });
 };
-
-
-// Function to observe and pause the video when out of view
-function observeVideo(videoWrapper, iframe) {
-    const observer = new IntersectionObserver(entries => {
-        entries.forEach(entry => {
-            if (!entry.isIntersecting) {
-                iframe.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
-            }
-        });
-    });
-
-    observer.observe(videoWrapper);
-}
 
 // Function to update the main category display
 const updateMainCategory = (jobs) => {

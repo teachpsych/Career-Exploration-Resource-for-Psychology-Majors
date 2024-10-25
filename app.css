@@ -272,3 +272,57 @@ h3 {
 .video-thumbnail:hover {
     opacity: 0.8;
 }
+
+.degree {
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+/* Center the jobs list on the page */
+#jobslist {
+    max-width: 1000px; /* Adjust max width as needed */
+    margin: 0 auto; /* Center-align #jobslist */
+    padding: 20px;
+}
+
+/* Center degree boxes within each job section, relative to job title */
+.degree-box {
+    font-size: 0.9em;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px auto; /* Centers within job-section */
+}
+
+/* Ensure job-section is centered within jobslist */
+.job-section {
+    background-color: #2a3b5a;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 20px auto;
+    word-wrap: break-word;
+    overflow: hidden;
+    text-align: center; /* Aligns text center within each job-section */
+}
+
+
+/* Specific colors based on degree type */
+.degree-box.blue {
+    background-color: #007bff; /* Blue for Bachelor’s degree */
+}
+
+.degree-box.green {
+    background-color: #28a745; /* Green for Graduate degree */
+}

@@ -1,0 +1,44 @@
+/* Basic styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 20px;
+}
+
+/* Style for the table */
+table {
+    width: 50%;  /* Set table width to 50% for left half of the screen */
+    border-collapse: collapse;
+    margin: 20px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for table headers */
+th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    text-align: left;  /* Align text in headers to the left */
+}
+
+/* Style for table cells */
+td {
+    padding: 8px;  /* Reduced padding for less whitespace */
+    border: 1px solid #ddd;
+    text-align: left;  /* Left-align text in cells */
+    white-space: nowrap;  /* Prevent text wrapping */
+}
+
+/* Hover effect for table rows */
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Responsive table */
+@media (max-width: 600px) {
+    table {
+        width: 100%;
+        display: block;
+        overflow-x: auto;
+    }
+}

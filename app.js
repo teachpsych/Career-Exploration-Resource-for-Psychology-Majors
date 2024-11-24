@@ -109,16 +109,17 @@ const displayJobs = (jobs) => {
     updateMainCategory(jobs);
     setupVideoThumbnails();
 };
-
 // Function to generate links HTML
 const generateLinksHtml = (links) => {
     return links.map(link => `
         <li class="link">
             <span class="category">${link.category}</span>
-            <a href="${link.url}" target="_blank">${link.url}</a>
+            <a href="${link.url}" target="_blank">${link.page_title || link.url}</a>
         </li>
     `).join('');
 };
+
+
 
 // Function to generate videos HTML
 const generateVideosHtml = (videos) => {

@@ -324,14 +324,27 @@ tr:hover {
     }
 }
 
+
 .image-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 20px 0; /* Add some spacing around the image */
 }
 
 .centered-image {
     max-width: 100%;
     height: auto;
+    display: block;
 }
+
+/* .image-container {
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0; /* Add some spacing around the image */
+
+
+/* .centered-image {
+    max-width: 100%;
+    height: auto;
+} */ */

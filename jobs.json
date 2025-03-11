@@ -239,10 +239,6 @@
                     {
                         "video_id": "ETTByx3D03s",
                         "url": "https://www.youtube.com/watch?v=ETTByx3D03s"
-                    },
-                    {
-                        "video_id": "gfF-5WnSjss",
-                        "url": "https://www.youtube.com/watch?v=gfF-5WnSjss"
                     }
                 ],
                 "degree_required": "Bachelor's"
@@ -1478,10 +1474,6 @@
                     {
                         "video_id": "1lFsqTMLtz4",
                         "url": "https://www.youtube.com/watch?v=1lFsqTMLtz4"
-                    },
-                    {
-                        "video_id": "ECSxG5749wY",
-                        "url": "https://www.youtube.com/watch?v=ECSxG5749wY"
                     }
                 ],
                 "degree_required": "Bachelor's"
@@ -1713,10 +1705,6 @@
                     }
                 ],
                 "videos": [
-                    {
-                        "video_id": "JEcpwfyxWu0",
-                        "url": "http://www.youtube.com/watch?v=JEcpwfyxWu0"
-                    },
                     {
                         "video_id": "dJuo937gz44",
                         "url": "http://www.youtube.com/watch?v=dJuo937gz44"
@@ -3301,10 +3289,6 @@
                         "url": "https://www.youtube.com/watch?v=uDBeSAGG9XY"
                     },
                     {
-                        "video_id": "GtXxtlJ8TLM",
-                        "url": "https://www.youtube.com/watch?v=GtXxtlJ8TLM"
-                    },
-                    {
                         "video_id": "s-QbV_OstxQ",
                         "url": "https://www.youtube.com/watch?v=s-QbV_OstxQ"
                     }
@@ -3549,12 +3533,7 @@
                         "page_title": "Patient Resources and Reimbursement Agent Career Information and College Majors"
                     }
                 ],
-                "videos": [
-                    {
-                        "video_id": "wyA_U-UVCuo",
-                        "url": "http://www.youtube.com/watch?v=wyA_U-UVCuo"
-                    }
-                ],
+                "videos": [],
                 "degree_required": "Bachelor's"
             },
             "Pharmaceutical Sales Representative": {

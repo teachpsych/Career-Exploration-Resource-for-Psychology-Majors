@@ -3,12 +3,12 @@
   * O*NET:: http://www.onetonline.org/link/summary/25-1066.00
   * OOH:: http://www.bls.gov/oes/current/oes251066.htm
   * OOH:: http://www.bls.gov/ooh/education-training-and-library/postsecondary-teachers.htm
-  * Wild Card:: http://work.chron.com/job-description-undergraduate-psychology-professor-18211.html
-  * Wild Card:: http://www.myplan.com/careers/psychology-teachers-postsecondary/description-25-1066.00.html
-  * Wild Card:: http://study.com/articles/Psychology_Teacher_Job_Description_and_Requirements_for_Becoming_a_University_Psychology_Teacher.html
-  * Wild Card:: http://job-descriptions.careerplanner.com/Psychology-Teachers-Postsecondary.cfm
-  * Wild Card:: http://education.cu-portland.edu/blog/teaching-careers/psychology-teacher/
-  * Wild Card:: http://www.apa.org/gradpsych/2006/09/jobs.aspx
+  * Other Resource:: http://work.chron.com/job-description-undergraduate-psychology-professor-18211.html
+  * Other Resource:: http://www.myplan.com/careers/psychology-teachers-postsecondary/description-25-1066.00.html
+  * Other Resource:: http://study.com/articles/Psychology_Teacher_Job_Description_and_Requirements_for_Becoming_a_University_Psychology_Teacher.html
+  * Other Resource:: http://job-descriptions.careerplanner.com/Psychology-Teachers-Postsecondary.cfm
+  * Other Resource:: http://education.cu-portland.edu/blog/teaching-careers/psychology-teacher/
+  * Other Resource:: http://www.apa.org/gradpsych/2006/09/jobs.aspx
   * Video:: https://www.drkit.org/university-professor/
   * Video:: https://www.drkit.org/community-college-professor/
   * STP (Chapters 10):: http://www.teachpsych.org/ebooks/academic-advising-2015-vol2

@@ -2,10 +2,10 @@
 
   * O*NET:: http://online.onetcenter.org/link/summary/21-1013.00
   * OOH:: http://www.bls.gov/ooh/community-and-social-service/mental-health-counselors-and-marriage-and-family-therapists.htm
-  * Wild Card:: http://www.psychologycareercenter.org/marriage-family-counselor.html
-  * Wild Card:: http://www.psychologyschoolguide.net/psychology-careers/marriage-counselor/
-  * Wild Card:: http://www.psychologycareercenter.org/marriage-family-therapist.html
-  * Wild Card:: http://www.psychologyschoolguide.net/career-guides/becoming-a-marriage-psychologist/
+  * Other Resource:: http://www.psychologycareercenter.org/marriage-family-counselor.html
+  * Other Resource:: http://www.psychologyschoolguide.net/psychology-careers/marriage-counselor/
+  * Other Resource:: http://www.psychologycareercenter.org/marriage-family-therapist.html
+  * Other Resource:: http://www.psychologyschoolguide.net/career-guides/becoming-a-marriage-psychologist/
   * Interview:: http://careersinpsychology.org/interview/lia-huynh/
   * Interview:: http://careersinpsychology.org/interview/darren-adamson/
   * Interview:: http://careersinpsychology.org/interview/ali-miller/

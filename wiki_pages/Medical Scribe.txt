@@ -1,5 +1,5 @@
 ====== Medical Scribe ======
 
   * O*NET:: https://www.onetonline.org/link/summary/31-9094.00
-  * Wild Card:: http://www.scribeamerica.com/what_is_medical_scribe.html
-  * Wild Card:: http://hire.proscribemd.com/become-a-scribe/?gclid=CjwKCAiAvMPRBRBIEiwABuO6qfs50r2hAR0sJw2lzZDxBPWttsHjGC8jj8otPLi_XbuzCqjnXae-FRoCbaUQAvD_BwE
+  * Other Resource:: http://www.scribeamerica.com/what_is_medical_scribe.html
+  * Other Resource:: http://hire.proscribemd.com/become-a-scribe/?gclid=CjwKCAiAvMPRBRBIEiwABuO6qfs50r2hAR0sJw2lzZDxBPWttsHjGC8jj8otPLi_XbuzCqjnXae-FRoCbaUQAvD_BwE

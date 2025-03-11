@@ -1,10 +1,10 @@
 ====== Experimental or Research Psychologist ======
 
   * DOT:: http://www.occupationalinfo.org/04/045061018.html
-  * Wild Card:: http://www.psychologyschoolguide.net/psychology-careers/experimental-psychologist/
-  * Wild Card:: http://www.psychologyschoolguide.net/career-guides/becoming-an-experimental-psychologist/
-  * Wild Card:: http://www.psychologyschoolguide.net/psychology-careers/research-psychologist/
-  * Wild Card:: http://www.psychologyschoolguide.net/career-guides/becoming-a-research-psychologist/
+  * Other Resource:: http://www.psychologyschoolguide.net/psychology-careers/experimental-psychologist/
+  * Other Resource:: http://www.psychologyschoolguide.net/career-guides/becoming-an-experimental-psychologist/
+  * Other Resource:: http://www.psychologyschoolguide.net/psychology-careers/research-psychologist/
+  * Other Resource:: http://www.psychologyschoolguide.net/career-guides/becoming-a-research-psychologist/
   * Video:: http://www.youtube.com/watch?v=3sa3WaanG0E
   * Video:: https://www.drkit.org/research-scientist/
   * APA Psychologist Profile:: http://www.apa.org/action/careers/improve-lives/tim-nichols.aspx

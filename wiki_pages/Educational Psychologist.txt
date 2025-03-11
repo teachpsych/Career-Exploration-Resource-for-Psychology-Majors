@@ -1,7 +1,7 @@
 ====== Educational Psychologist ======
 
   * DOT:: http://www.occupationalinfo.org/04/045067010.html
-  * Wild Card:: http://www.psychologycareercenter.org/educational-psychologist.html
+  * Other Resource:: http://www.psychologycareercenter.org/educational-psychologist.html
   * Video:: https://www.drkit.org/educational-psychology-cognition-and-development-phd/
   * Video:: https://www.drkit.org/educational-psychology-quantitative-methodology-phd/
   * Video:: https://www.drkit.org/educational-research-scientist/

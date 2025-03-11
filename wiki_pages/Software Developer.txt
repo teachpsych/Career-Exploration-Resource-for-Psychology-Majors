@@ -2,5 +2,5 @@
 
   * O*NET:: http://www.onetonline.org/link/summary/15-1132.00
   * OOH:: http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
-  * Wild Card:: http://www.newenglandcollegeonline.com/resources/computer-science/software-developer-job-description-and-salary/#.VRlVVvnF_Ak
+  * Other Resource:: http://www.newenglandcollegeonline.com/resources/computer-science/software-developer-job-description-and-salary/#.VRlVVvnF_Ak
   * Video:: https://www.youtube.com/watch?v=V_8M2f_igiA

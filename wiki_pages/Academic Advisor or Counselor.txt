@@ -2,6 +2,6 @@
 
   * O*NET:: http://online.onetcenter.org/link/summary/21-1012.00
   * OOH:: http://www.bls.gov/ooh/community-and-social-service/school-and-career-counselors.htm
-  * Wild Card:: http://education-portal.com/articles/Academic_Advisor_Job_Description_Duties_and_Requirements.html
-  * Wild Card:: http://www.nacada.ksu.edu/Resources/Clearinghouse/View-Articles/Become-an-Advisor.aspx
+  * Other Resource:: http://education-portal.com/articles/Academic_Advisor_Job_Description_Duties_and_Requirements.html
+  * Other Resource:: http://www.nacada.ksu.edu/Resources/Clearinghouse/View-Articles/Become-an-Advisor.aspx
   * Video:: https://www.youtube.com/watch?v=4kHTEUDqUSQ

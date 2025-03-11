@@ -1,9 +1,9 @@
 ====== Counseling Psychologist ======
 
   * O*NET:: http://online.onetcenter.org/link/summary/19-3031.03
-  * Wild Card:: http://www.psichi.org/?page=041EyeFall99bCarter&hhSearchTerms=%22counseling+and+psychology%22
-  * Wild Card:: http://www.psychologyschoolguide.net/career-guides/becoming-a-counseling-psychologist/
-  * Wild Card:: http://www.collegeatlas.org/counseling-psychologist.html
+  * Other Resource:: http://www.psichi.org/?page=041EyeFall99bCarter&hhSearchTerms=%22counseling+and+psychology%22
+  * Other Resource:: http://www.psychologyschoolguide.net/career-guides/becoming-a-counseling-psychologist/
+  * Other Resource:: http://www.collegeatlas.org/counseling-psychologist.html
   * Interview:: http://careersinpsychology.org/interview/dr-tina-tessina/
   * Video:: https://www.drkit.org/counseling-psychology-ma-or-ms/
   * Video:: https://www.drkit.org/counseling-psychology-phd/

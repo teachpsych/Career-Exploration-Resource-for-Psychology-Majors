@@ -1,7 +1,7 @@
 ====== Nurse Practitioner ======
 
   * O*NET:: http://www.onetonline.org/link/summary/29-1171.00
-  * Wild Card:: http://www.aanp.org/all-about-nps/what-is-an-np
-  * Wild Card:: http://explorehealthcareers.org/en/Career/75/Nurse_Practitioner
-  * Wild Card:: http://educationportal.com/articles/Nurse_Practitioner_vs_Physician_Assistant_Whats_the_Difference.html
+  * Other Resource:: http://www.aanp.org/all-about-nps/what-is-an-np
+  * Other Resource:: http://explorehealthcareers.org/en/Career/75/Nurse_Practitioner
+  * Other Resource:: http://educationportal.com/articles/Nurse_Practitioner_vs_Physician_Assistant_Whats_the_Difference.html
   * Video:: https://www.drkit.org/nurse-practitioner/

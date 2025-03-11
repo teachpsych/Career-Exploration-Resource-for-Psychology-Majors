@@ -1,8 +1,8 @@
 ====== Clinical Psychologist ======
 
   * O*NET:: http://online.onetcenter.org/link/summary/19-3031.02
-  * Wild Card:: http://www.psichi.org/?page=151EyeFall10aSanders&hhSearchTerms=%22Doctor+and+Ordered+and+Creating+and+Career+and+Path%22
-  * Wild Card:: http://www.psychologyschoolguide.net/career-guides/becoming-a-clinical-psychologist/
+  * Other Resource:: http://www.psichi.org/?page=151EyeFall10aSanders&hhSearchTerms=%22Doctor+and+Ordered+and+Creating+and+Career+and+Path%22
+  * Other Resource:: http://www.psychologyschoolguide.net/career-guides/becoming-a-clinical-psychologist/
   * Interview:: http://careersinpsychology.org/interview/dr-john-suler/
   * Interview:: http://careersinpsychology.org/interview/dr-leah-klungness/
   * Interview:: http://careersinpsychology.org/interview/mikhail-lyubansky/

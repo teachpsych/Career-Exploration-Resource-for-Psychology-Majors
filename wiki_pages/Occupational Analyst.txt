@@ -1,7 +1,7 @@
 ====== Occupational Analyst ======
 
   * O*NET:: http://www.occupationalinfo.org/onet/21511a.html
-  * Wild Card:: http://www.careerplanner.com/DOT-Job-Descriptions/OCCUPATIONAL-ANALYST.cfm
-  * Wild Card:: http://www.mymajors.com/career/occupational-analyst/
-  * Wild Card:: http://www.mba-today.com/hr-career/occupational-analyst.html
-  * Wild Card:: http://superscholar.org/careers/business/occupational-analyst/
+  * Other Resource:: http://www.careerplanner.com/DOT-Job-Descriptions/OCCUPATIONAL-ANALYST.cfm
+  * Other Resource:: http://www.mymajors.com/career/occupational-analyst/
+  * Other Resource:: http://www.mba-today.com/hr-career/occupational-analyst.html
+  * Other Resource:: http://superscholar.org/careers/business/occupational-analyst/

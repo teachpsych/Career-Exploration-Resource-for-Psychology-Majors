@@ -1,4 +1,19 @@
 /* Basic styling for the body */
+/* Visited link styling */
+
+
+
+a {
+    color: #ff0000;
+    text-decoration: underline;
+}
+a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+}
+a:visited {
+    color: #aa66ff; /* Change this to your preferred visited link color */
+}
 body {
     font-family: "Arial", sans-serif;
     background-color: #111d4a;
@@ -125,6 +140,10 @@ h3 {
 
 .link a:hover {
     text-decoration: underline;
+}
+
+.link a:visited{
+    color: #ff6666;
 }
 
 /* Search bar styling */

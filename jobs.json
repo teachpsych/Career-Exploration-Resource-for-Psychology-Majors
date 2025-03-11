@@ -2394,64 +2394,7 @@
                 ],
                 "degree_required": "Bachelor's"
             },
-            "Teacher for the Emotionally Impaired": {
-                "links": [
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2051.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2051.00 - Special Education Teachers, Preschool"
-                    },
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2052.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2052.00 - Special Education Teachers, Kindergarten and Elementary School"
-                    },
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2053.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2057.00 - Special Education Teachers, Middle School"
-                    },
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2054.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2058.00 - Special Education Teachers, Secondary School"
-                    },
-                    {
-                        "url": "https://www.drkit.org/special-education-teacher/",
-                        "category": "Video:",
-                        "page_title": "Special Education Teacher | Dr. Kit"
-                    }
-                ],
-                "videos": [],
-                "degree_required": "Bachelor's"
-            },
-            "Teacher for the Hearing Impaired": {
-                "links": [
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2051.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2051.00 - Special Education Teachers, Preschool"
-                    },
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2052.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2052.00 - Special Education Teachers, Kindergarten and Elementary School"
-                    },
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2053.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2057.00 - Special Education Teachers, Middle School"
-                    },
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2054.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2058.00 - Special Education Teachers, Secondary School"
-                    }
-                ],
-                "videos": [],
-                "degree_required": "Bachelor's"
-            },
-            "Teacher for the Learning Disabled": {
+            "Special Education Teacher": {
                 "links": [
                     {
                         "url": "http://www.onetonline.org/link/summary/25-2051.00",
@@ -2508,32 +2451,6 @@
                         "url": "https://www.drkit.org/special-education-teacher/",
                         "category": "Video:",
                         "page_title": "Special Education Teacher | Dr. Kit"
-                    }
-                ],
-                "videos": [],
-                "degree_required": "Bachelor's"
-            },
-            "Teacher for the Visually Impaired": {
-                "links": [
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2051.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2051.00 - Special Education Teachers, Preschool"
-                    },
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2052.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2052.00 - Special Education Teachers, Kindergarten and Elementary School"
-                    },
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2053.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2057.00 - Special Education Teachers, Middle School"
-                    },
-                    {
-                        "url": "http://www.onetonline.org/link/summary/25-2054.00",
-                        "category": "O*NET:",
-                        "page_title": "25-2058.00 - Special Education Teachers, Secondary School"
                     }
                 ],
                 "videos": [],
@@ -3242,17 +3159,6 @@
                         "url": "https://www.youtube.com/watch?v=AjRrAod36HU"
                     }
                 ],
-                "degree_required": "Bachelor's"
-            },
-            "Coroner": {
-                "links": [
-                    {
-                        "url": "http://www.onetonline.org/link/summary/13-1041.06",
-                        "category": "O*NET:",
-                        "page_title": "13-1041.06 - Coroners"
-                    }
-                ],
-                "videos": [],
                 "degree_required": "Bachelor's"
             },
             "Fitness and Wellness Coordinator": {
@@ -6945,11 +6851,6 @@
                         "url": "http://careersinpsychology.org/interview/adam-ferrier/",
                         "category": "Interview:",
                         "page_title": "Careers in Consumer Psychology | CareersinPsychology.org"
-                    },
-                    {
-                        "url": "http://www.apa.org/about/division/div23.aspx",
-                        "category": "APA Division:",
-                        "page_title": ""
                     }
                 ],
                 "videos": [

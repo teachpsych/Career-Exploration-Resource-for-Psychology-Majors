@@ -4,15 +4,15 @@
 
 
 a {
-    color: #ff0000;
+    color: #00ccff;
     text-decoration: underline;
 }
 a:hover {
-    color: #ff0000;
+    color: #ff8800;
     text-decoration: underline;
 }
 a:visited {
-    color: #aa66ff; /* Change this to your preferred visited link color */
+    color: #d1ff66; /* Change this to your preferred visited link color */
 }
 body {
     font-family: "Arial", sans-serif;
@@ -139,8 +139,9 @@ h3 {
 }
 
 .link a:hover {
+    color: #ff9900;
     text-decoration: underline;
-}
+}p[]
 
 .link a:visited{
     color: #ff6666;

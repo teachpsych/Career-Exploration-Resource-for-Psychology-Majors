@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jobs Manager</title>
+    <style>
+        body { font-family: sans-serif; margin: 20px; }
+        label { display: block; margin-top: 10px; }
+        button { margin-top: 10px; }
+        .link-block { margin-bottom: 10px; border: 1px solid #ccc; padding: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Add a New Job</h1>
+    <form id="job-form">
+        <label>Job Name: <input type="text" name="job-name" required></label>
+        <label>Degree Required:</label>
+        <select name="degree-required">
+            <option value="">None</option>
+            <option value="Associate">Associate</option>
+            <option value="Bachelor's">Bachelor's Degree</option>
+            <option value="Graduate's Degree">Graduate Degree</option>
+            <option value="Master's Degree">Master's Degree</option>
+            <option value="Doctorate Degree">Doctorate Degree</option>
+        </select>
+        <div id="links-section">
+            <label>Links:</label>
+            <div id="links-container"></div>
+            <button type="button" onclick="addLinkField()">Add Link</button>
+        </div>
+        <button type="submit">Download Updated JSON</button>
+    </form>
+    <script>
+        let linkCount = 0;
+        const staticLinkTypes = [
+            "APA Applied Research:", "APA Blog:", "APA Careers:", "APA Division:",
+            "APA Psychologist Profile:", "APA Science in Action:", "APA:", "APA: Division:",
+            "Coach:", "DOT:", "Interview:", "O*NET:", "OOH:", "Other Resource:",
+            "STP", "Video:", "Wildcard:", "YouTube Video"
+        ];
+        const stpChapters = [
+            "(Chapter 4)", "(Chapter 5)", "(Chapter 6)", "(Chapter 7)", "(Chapter 8)",
+            "(Chapter 9)", "(Chapter 10)", "(Chapter 11)", "(Chapter 12)", "(Chapter 13)",
+            "(Chapter 14)", "(Chapter 15)", "(Chapter 17)", "(Chapter 19)", "(Chapter 20)",
+            "(Chapter 21)", "(Chapter 22)", "(Chapter 23)", "(Chapter 24)", "(Chapter 25)",
+            "(Chapter 26)", "(Chapter 27)"
+        ];
+        function addLinkField() {
+            const container = document.getElementById("links-container");
+            const div = document.createElement("div");
+            div.className = 'link-block';
+            div.innerHTML = `
+                <select name='link-type-${linkCount}' onchange='toggleFields(this, ${linkCount})'>
+                    ${staticLinkTypes.map(type => `<option value="${type}">${type}</option>`).join('')}
+                </select>
+                <input type='text' name='link-name-${linkCount}' placeholder='Link Name'>
+                <input type='text' name='link-url-${linkCount}' placeholder='Link URL' oninput='parseYouTubeID(this, ${linkCount})'>
+                <div id='stp-chapter-select-${linkCount}' style='display: none;'>
+                    <select name='stp-chapter-${linkCount}'>
+                        ${stpChapters.map(ch => `<option value="${ch}">${ch}</option>`).join('')}
+                    </select>
+                </div>
+                <input type='hidden' name='youtube-id-${linkCount}' value=''>
+            `;
+            container.appendChild(div);
+            toggleFields(div.querySelector(`select[name='link-type-${linkCount}']`), linkCount);
+            linkCount++;
+        }
+        function toggleFields(select, count) {
+            const stpSelect = document.getElementById(`stp-chapter-select-${count}`);
+            const nameInput = document.querySelector(`[name='link-name-${count}']`);
+            if (select.value === "STP") {
+                stpSelect.style.display = "block";
+                nameInput.style.display = "inline-block";
+            } else if (select.value === "YouTube Video") {
+                stpSelect.style.display = "none";
+                nameInput.style.display = "none";
+            } else {
+                stpSelect.style.display = "none";
+                nameInput.style.display = "inline-block";
+            }
+        }
+        function parseYouTubeID(input, count) {
+            const typeSelect = document.querySelector(`[name='link-type-${count}']`);
+            if (typeSelect.value !== "YouTube Video") return;
+            const url = input.value;
+            const match = url.match(/[?&]v=([^&]+)/);
+            const idField = document.querySelector(`[name='youtube-id-${count}']`);
+            if (match) {
+                idField.value = match[1];
+            } else {
+                idField.value = '';
+            }
+        }
+        document.getElementById("job-form").addEventListener("submit", function(e) {
+            e.preventDefault();
+            const form = new FormData(this);
+            const jobName = form.get("job-name");
+            const degree = form.get("degree-required");
+            let links = [];
+            let videos = [];
+            for (let i = 0; i < linkCount; i++) {
+                let name = form.get(`link-name-${i}`);
+                let url = form.get(`link-url-${i}`);
+                let type = form.get(`link-type-${i}`);
+                let youtubeID = form.get(`youtube-id-${i}`);
+                if (type === "STP") type += " " + form.get(`stp-chapter-${i}`);
+                if (type === "YouTube Video" && youtubeID) {
+                    videos.push({ video_id: youtubeID, url: url });
+                } else if (url) {
+                    links.push({ page_title: name || "", url: url, category: type });
+                }
+            }
+            const newJob = {
+                degree_required: degree,
+                links: links,
+                videos: videos
+            };
+            fetch("jobs.json")
+                .then(res => res.json())
+                .then(data => {
+                    if (!data[0].jobs[jobName]) data[0].jobs[jobName] = newJob;
+                    downloadJSONFile("jobs_added_entries.json", data);
+                });
+        });
+        function downloadJSONFile(filename, jsonObject) {
+            const dataStr = JSON.stringify(jsonObject, null, 4);
+            const blob = new Blob([dataStr], { type: 'application/json;charset=utf-8;' });
+            const link = document.createElement("a");
+            link.href = URL.createObjectURL(blob);
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+    </script>
+</body>
+</html>

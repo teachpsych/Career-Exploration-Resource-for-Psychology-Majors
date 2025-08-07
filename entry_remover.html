@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jobs JSON Editor (deleter)</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .category { margin-bottom: 20px; }
+        .job { margin-left: 20px; }
+        .link { margin-left: 40px; }
+    </style>
+</head>
+<body>
+    <h1>Jobs JSON Editor (deleter)</h1>
+    <p>Upload your .json file, then simply select the items for deletion.</p>
+    <input type="file" id="jsonFile" accept="application/json"><br><br>
+    <div id="editor"></div>
+    <button id="downloadBtn" style="display:none;">Download Updated JSON</button>
+
+    <script>
+        let originalData = [];
+        let editorContainer = document.getElementById('editor');
+
+        document.getElementById('jsonFile').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(evt) {
+                    try {
+                        originalData = JSON.parse(evt.target.result);
+                        renderEditor();
+                        document.getElementById('downloadBtn').style.display = 'block';
+                    } catch (err) {
+                        alert('Invalid JSON file.');
+                    }
+                };
+                reader.readAsText(file);
+            }
+        });
+
+        function renderEditor() {
+            editorContainer.innerHTML = '';
+            originalData.forEach((category, catIndex) => {
+                const categoryDiv = document.createElement('div');
+                categoryDiv.className = 'category';
+                categoryDiv.innerHTML = `<h3>${category.main_category}</h3>`;
+
+                Object.entries(category.jobs).forEach(([jobName, jobData]) => {
+                    const jobDiv = document.createElement('div');
+                    jobDiv.className = 'job';
+                    jobDiv.innerHTML = `
+                        <label>
+                            <input type="checkbox" class="job-delete" data-cat="${catIndex}" data-job="${jobName}">
+                            ${jobName}
+                        </label>
+                    `;
+
+                    jobData.links.forEach((link, linkIndex) => {
+                        const linkDiv = document.createElement('div');
+                        linkDiv.className = 'link';
+                        linkDiv.innerHTML = `
+                            <label>
+                                <input type="checkbox" class="link-delete" data-cat="${catIndex}" data-job="${jobName}" data-link="${linkIndex}">
+                                ${link.url}
+                            </label>
+                        `;
+                        jobDiv.appendChild(linkDiv);
+                    });
+
+                    categoryDiv.appendChild(jobDiv);
+                });
+
+                editorContainer.appendChild(categoryDiv);
+            });
+        }
+
+        document.getElementById('downloadBtn').addEventListener('click', function() {
+            const updatedData = JSON.parse(JSON.stringify(originalData));
+            const jobDeletes = document.querySelectorAll('.job-delete:checked');
+            const linkDeletes = document.querySelectorAll('.link-delete:checked');
+
+            jobDeletes.forEach(cb => {
+                const catIndex = cb.dataset.cat;
+                const jobName = cb.dataset.job;
+                delete updatedData[catIndex].jobs[jobName];
+            });
+
+            linkDeletes.forEach(cb => {
+                const catIndex = cb.dataset.cat;
+                const jobName = cb.dataset.job;
+                const linkIndex = cb.dataset.link;
+                if (updatedData[catIndex].jobs[jobName]) {
+                    updatedData[catIndex].jobs[jobName].links.splice(linkIndex, 1);
+                }
+            });
+
+            const blob = new Blob([JSON.stringify(updatedData, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'jobs_removed_entries.json';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        });
+    </script>
+</body>
+</html>
